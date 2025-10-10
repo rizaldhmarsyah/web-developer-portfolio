@@ -15,7 +15,7 @@ import ta_1 from "../assets/projects/ta-1.png";
 import ta_2 from "../assets/projects/ta-2.png";
 import ta_3 from "../assets/projects/ta-3.png";
 
-export const HERO_CONTENT = `Active 7th-semester Information Systems student with a strong passion for web development. Leveraging professional experience in building a company website, I'm highly proficient in JavaScript, React.js, and Next.js for responsive, high-performance web interfaces. My skills extend to RESTful API integration and using modern tools like Firebase, MongoDB, Redux Toolkit, and Framer Motion. This real-world project honed my design-to-code translation and strengthened my UI/UX understanding, demonstrating my proactive approach to new technologies and commitment to clean, efficient code.`;
+export const HERO_CONTENT = `Active 7th-semester Information Systems student with a strong passion for web development. Leveraging professional experience in building a company website, I'm highly proficient in JavaScript, React.js, Next.js and Tailwind CSS for responsive, high-performance web interfaces. My skills extend to RESTful API integration and using modern tools like Firebase, MongoDB, Redux Toolkit, and Framer Motion. This real-world project honed my design-to-code translation and strengthened my UI/UX understanding, demonstrating my proactive approach to new technologies and commitment to clean, efficient code.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
@@ -33,13 +33,26 @@ export const EXPERIENCES = [
       "SwiperJS",
     ],
   },
+  {
+    year: "September 2025 - December 2025",
+    role: "Web Administrator Intern",
+    company: "Lembaga Layanan Pendidikan Tinggi III Jakarta",
+    description: `Managed and maintained the official institutional website, with responsibilities covering the full lifecycle of the platform: feature development, regular content updates, performance optimization, and bug fixing. Ensured stable, secure, and efficient operation of the public-facing digital presence.`,
+    technologies: [
+      "NextJS",
+      "Tailwind CSS",
+      "Api Integration",
+      "Framer Motion",
+      "SwiperJS",
+    ],
+  },
 ];
 
 export const EDUCATION = [
   {
     year: "2022 - Present",
     university: "Universitas Nusa Mandiri",
-    degree: "Bachelor’s Degree in Information Systems – GPA 3.89",
+    degree: "Bachelor’s Degree in Information Systems – GPA 3.81",
   },
   {
     year: "2018 - 2021",
