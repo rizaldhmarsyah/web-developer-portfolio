@@ -34,7 +34,7 @@ export const EXPERIENCES = [
     ],
   },
   {
-    year: "September 2025 - December 2025",
+    year: "September 2025 - Present",
     role: "Web Administrator Intern",
     company: "Lembaga Layanan Pendidikan Tinggi III Jakarta",
     description: `Managed and maintained the official institutional website, with responsibilities covering the full lifecycle of the platform: feature development, regular content updates, performance optimization, and bug fixing. Ensured stable, secure, and efficient operation of the public-facing digital presence.`,
