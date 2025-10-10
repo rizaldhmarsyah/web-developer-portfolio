@@ -21,10 +21,10 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "March 2025 - July 2025",
-    role: "Frontend Web Developer Intern",
-    company: "PT. Amal Ichwan Arindo",
-    description: `As a Frontend Developer, I developed and maintained web applications using JavaScript, React.js, and Next.js, specializing in UI development and optimization for PT. Amal Ichwan Arindo's online recruitment platform.`,
+    year: "September 2025 - Present",
+    role: "Web Administrator Intern",
+    company: "Lembaga Layanan Pendidikan Tinggi III Jakarta",
+    description: `Managed and maintained the official institutional website, with responsibilities covering the full lifecycle of the platform: feature development, regular content updates, performance optimization, and bug fixing. Ensured stable, secure, and efficient operation of the public-facing digital presence.`,
     technologies: [
       "NextJS",
       "Tailwind CSS",
@@ -34,10 +34,10 @@ export const EXPERIENCES = [
     ],
   },
   {
-    year: "September 2025 - Present",
-    role: "Web Administrator Intern",
-    company: "Lembaga Layanan Pendidikan Tinggi III Jakarta",
-    description: `Managed and maintained the official institutional website, with responsibilities covering the full lifecycle of the platform: feature development, regular content updates, performance optimization, and bug fixing. Ensured stable, secure, and efficient operation of the public-facing digital presence.`,
+    year: "March 2025 - July 2025",
+    role: "Frontend Web Developer Intern",
+    company: "PT. Amal Ichwan Arindo",
+    description: `As a Frontend Developer, I developed and maintained web applications using JavaScript, React.js, and Next.js, specializing in UI development and optimization for PT. Amal Ichwan Arindo's online recruitment platform.`,
     technologies: [
       "NextJS",
       "Tailwind CSS",
