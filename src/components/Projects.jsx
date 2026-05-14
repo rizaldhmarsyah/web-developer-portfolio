@@ -88,18 +88,6 @@ const Projects = () => {
                 {project.title}
               </h3>
               <p className="mb-4 text-stone-400">{project.description}</p>
-              {/* Add a div to wrap the technologies for better control */}
-              <div className="flex flex-wrap justify-center lg:justify-start gap-2">
-                {project.technologies.map((tech, techIndex) => (
-                  <span
-                    className="rounded bg-stone-900 p-2 text-sm font-medium text-stone-300"
-                    key={techIndex}
-                  >
-                    {tech}
-                  </span>
-                ))}
-              </div>
-
               <div className="flex justify-center lg:justify-start mt-4">
                 <a
                   href={project.link}
